@@ -1,4 +1,4 @@
-# AI Content Creation & Instagram Automation Agent
+# AI Content Creation Agent
 
 An end-to-end AI-powered content automation workflow built with **n8n** that automatically generates Instagram-ready marketing content, creates AI-generated visuals, uploads them to Cloudinary, and publishes posts directly to Instagram.
 
